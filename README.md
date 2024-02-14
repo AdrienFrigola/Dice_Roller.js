@@ -2,6 +2,7 @@ Dice Roller
 Description:
 Dice Roller is a simple application that simulates rolling dice. You can specify the number of dice to roll and get the results in both numeric and visual form with images representing the dice.
 
+(https://github.com/AdrienFrigola/Dice_Roller.js.git)
 
 Usage:
 Open the index.html file in your web browser.
